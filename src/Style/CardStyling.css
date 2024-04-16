@@ -1,0 +1,23 @@
+.cardStyle{
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 0px;
+}
+
+.card .card-title{
+   font-size: 14px;
+text-align: left;
+font: normal normal bold 14px/42px DIN Condensed;
+letter-spacing: 0.14px;
+color: #767676;
+opacity: 0.56;
+}
+.cardStyle .card-body .card-text{
+   font-size: 22px;
+/* UI Properties */
+text-align: left;
+font: normal normal bold 22px/25px DIN Condensed;
+letter-spacing: 0.44px;
+color: #333333;
+opacity: 1;
+}

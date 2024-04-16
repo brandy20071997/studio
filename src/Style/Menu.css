@@ -1,0 +1,6 @@
+.Menu {
+    background-image: url('../Assets/Img/parallex.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}

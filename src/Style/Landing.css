@@ -1,0 +1,53 @@
+.LandingImage{
+    background-image: url("../Assets/Img/wall.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+}
+
+/* .landing-section {
+   
+    height: 100vh;
+    display: flex;
+    justify-content: center; 
+    align-items: flex-start; 
+} */
+.content-container {
+    text-align: center; 
+} 
+
+
+.LandingImage {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.headingText {
+    margin-top: auto;
+    margin-bottom: auto;
+    color: white;
+    font-size: 72px;
+    line-height: 56px;
+    font-weight: 600;
+}
+
+.headingText p:nth-child(3) {
+    font-size: 33px;
+    
+}
+.slidertext{
+    top: 3333px;
+left: 147px;
+width: 161px;
+height: 95px;
+/* UI Properties */
+text-align: left;
+letter-spacing: NaNpx;
+color: #333333;
+opacity: 1;
+}
